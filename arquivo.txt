@@ -1,0 +1,2 @@
+primeiro texto escrito no repositorio local 
+segundo commit do nosso repositorio 
